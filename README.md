@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0909-stone-game](https://github.com/fasilahammed/LeetCodes/tree/master/0909-stone-game) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fasilahammed/LeetCodes/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3830-find-closest-person](https://github.com/fasilahammed/LeetCodes/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
