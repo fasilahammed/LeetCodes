@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/fasilahammed/LeetCodes/tree/master/0909-stone-game) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fasilahammed/LeetCodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/fasilahammed/LeetCodes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fasilahammed/LeetCodes/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3830-find-closest-person](https://github.com/fasilahammed/LeetCodes/tree/master/3830-find-closest-person) |
