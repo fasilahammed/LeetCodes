@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fasilahammed/LeetCodes/tree/master/0169-majority-element) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/fasilahammed/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/fasilahammed/LeetCodes/tree/master/0169-majority-element) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/fasilahammed/LeetCodes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+## String
+|  |
+| ------- |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/fasilahammed/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
 <!---LeetCode Topics End-->
