@@ -48,5 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/fasilahammed/LeetCodes/tree/master/0020-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/fasilahammed/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/fasilahammed/LeetCodes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
