@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/fasilahammed/LeetCodes/tree/master/0020-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/fasilahammed/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3379-score-of-a-string](https://github.com/fasilahammed/LeetCodes/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
