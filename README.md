@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/fasilahammed/LeetCodes/tree/master/0909-stone-game) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/fasilahammed/LeetCodes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fasilahammed/LeetCodes/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/fasilahammed/LeetCodes/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/fasilahammed/LeetCodes/tree/master/0169-majority-element) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/fasilahammed/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/fasilahammed/LeetCodes/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/fasilahammed/LeetCodes/tree/master/0169-majority-element) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/fasilahammed/LeetCodes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/fasilahammed/LeetCodes/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
