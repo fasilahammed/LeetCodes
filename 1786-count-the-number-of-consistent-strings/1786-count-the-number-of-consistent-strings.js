@@ -12,10 +12,11 @@ var countConsistentStrings = function(allowed, words) {
         {
             if(!set.has(chr))
             {
-                istrue=false
+                istrue=false;
+                break;
             }
         }
-        if(istrue)count++
+        if(istrue)count++;
     }
-    return count
+    return count;
 };
