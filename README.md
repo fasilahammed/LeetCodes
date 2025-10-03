@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/fasilahammed/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/fasilahammed/LeetCodes/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/fasilahammed/LeetCodes/tree/master/0058-length-of-last-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/fasilahammed/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/fasilahammed/LeetCodes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3379-score-of-a-string](https://github.com/fasilahammed/LeetCodes/tree/master/3379-score-of-a-string) |
