@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/fasilahammed/LeetCodes/tree/master/1786-count-the-number-of-consistent-strings) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/fasilahammed/LeetCodes/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
