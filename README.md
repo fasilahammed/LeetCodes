@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fasilahammed/LeetCodes/tree/master/0169-majority-element) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/fasilahammed/LeetCodes/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0909-stone-game](https://github.com/fasilahammed/LeetCodes/tree/master/0909-stone-game) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/fasilahammed/LeetCodes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/fasilahammed/LeetCodes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fasilahammed/LeetCodes/tree/master/0169-majority-element) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/fasilahammed/LeetCodes/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/fasilahammed/LeetCodes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
