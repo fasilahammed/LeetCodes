@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/fasilahammed/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/fasilahammed/LeetCodes/tree/master/0169-majority-element) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/fasilahammed/LeetCodes/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0909-stone-game](https://github.com/fasilahammed/LeetCodes/tree/master/0909-stone-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/fasilahammed/LeetCodes/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/fasilahammed/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/fasilahammed/LeetCodes/tree/master/0169-majority-element) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/fasilahammed/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/fasilahammed/LeetCodes/tree/master/1786-count-the-number-of-consistent-strings) |
